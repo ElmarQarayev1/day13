@@ -16,7 +16,7 @@ class Program
 
         // Verilmiş yazının yalnız hərflərdən ibarət olub olmadığını tapan metod
 
-        string text = "salam  menim 18 yasim var.";
+        string text = "salamenimyasimvar";
         Console.WriteLine(check_letter(text));
 
         //Verilmiş yazının ilk hərfini böyük qalanlarını kiçik edib qaytaran metod
@@ -50,11 +50,12 @@ class Program
     }
     static bool check_letter(string str)
     {
+       
         for (int i = 0; i < str.Length; i++)
         {
-            if (char.IsDigit(str[i])) return false;
+            if (!char.IsLetter(str[i])) return false;
         }
-        return true;
+        return true;       
     }
     static string change_first_bigger(string str)
     {
