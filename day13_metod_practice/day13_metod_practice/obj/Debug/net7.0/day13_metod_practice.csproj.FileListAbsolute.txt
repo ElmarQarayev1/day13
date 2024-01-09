@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/bin/Debug/net7.0/day13_metod_practice
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/bin/Debug/net7.0/day13_metod_practice.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/bin/Debug/net7.0/day13_metod_practice.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/bin/Debug/net7.0/day13_metod_practice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/bin/Debug/net7.0/day13_metod_practice.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/refint/day13_metod_practice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/day13_metod_practice.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_metod_practice/day13_metod_practice/obj/Debug/net7.0/ref/day13_metod_practice.dll

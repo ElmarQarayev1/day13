@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/bin/Debug/net7.0/day13_tasks
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/bin/Debug/net7.0/day13_tasks.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/bin/Debug/net7.0/day13_tasks.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/bin/Debug/net7.0/day13_tasks.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/bin/Debug/net7.0/day13_tasks.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/refint/day13_tasks.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/day13_tasks.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day13/day13_tasks/day13_tasks/obj/Debug/net7.0/ref/day13_tasks.dll
